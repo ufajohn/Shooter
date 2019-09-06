@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{AA290686-41DB-5F97-0C98-7D91306635A8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Shooter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	]
+}
