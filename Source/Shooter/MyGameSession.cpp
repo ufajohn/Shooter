@@ -21,7 +21,7 @@ void AMyGameSession::RegisterServer()
 	FOnlineSessionSettings Settings;
 	
 	Settings.bIsDedicated = true;
-	Settings.bIsLANMatch = true;
+	Settings.bIsLANMatch = false;
 	Settings.bAllowJoinInProgress = true;
 	Settings.bShouldAdvertise = true;
 	Settings.NumPublicConnections = 16;
