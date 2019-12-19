@@ -22,7 +22,7 @@
 /wd4838
 /we4668
 /I .
-/I "I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
+/I "G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\ShooterServer\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -76,12 +76,12 @@
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils
-/I "I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\ShooterServer\Inc\AdvancedSteamSessions"
-/I "I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
+/I "G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\ShooterServer\Inc\AdvancedSteamSessions"
+/I "G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I "I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
-/I "I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions"
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\CoreUObject"
+/I "G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
+/I "G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\CoreUObject"
 /I Runtime\CoreUObject\Public
 /I Runtime\CoreUObject
 /I Runtime\CoreUObject\Public\Blueprint
@@ -91,7 +91,7 @@
 /I Runtime\CoreUObject\Public\Serialization\Formatters
 /I Runtime\CoreUObject\Public\Templates
 /I Runtime\CoreUObject\Public\UObject
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\Engine"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\Engine"
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
 /I Runtime\Engine
@@ -120,7 +120,7 @@
 /I Runtime\ApplicationCore\Public\Windows
 /I Runtime\RHI\Public
 /I Runtime\RHI
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\SlateCore"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\SlateCore"
 /I Runtime\SlateCore\Public
 /I Runtime\SlateCore
 /I Runtime\SlateCore\Public\Animation
@@ -137,14 +137,14 @@
 /I Runtime\SlateCore\Public\Textures
 /I Runtime\SlateCore\Public\Types
 /I Runtime\SlateCore\Public\Widgets
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\InputCore"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\InputCore"
 /I Runtime\InputCore\Classes
 /I Runtime\InputCore\Public
 /I Runtime\InputCore
 /I Runtime\InputCore\Public\GenericPlatform
 /I Runtime\InputCore\Public\HAL
 /I Runtime\InputCore\Public\Windows
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\Slate"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\Slate"
 /I Runtime\Slate\Public
 /I Runtime\Slate
 /I Runtime\Slate\Public\Framework
@@ -181,49 +181,49 @@
 /I Runtime\ShaderCore
 /I Runtime\UtilityShaders\Public
 /I Runtime\UtilityShaders
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\AssetRegistry"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\AssetRegistry"
 /I Runtime\AssetRegistry\Public
 /I Runtime\AssetRegistry
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\EngineMessages"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\EngineMessages"
 /I Runtime\EngineMessages\Public
 /I Runtime\EngineMessages
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\EngineSettings"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\EngineSettings"
 /I Runtime\EngineSettings\Classes
 /I Runtime\EngineSettings\Public
 /I Runtime\EngineSettings
 /I Runtime\SynthBenchmark\Public
 /I Runtime\SynthBenchmark
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\Renderer"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\Renderer"
 /I Runtime\Renderer\Public
 /I Runtime\Renderer
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\GameplayTags"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\GameplayTags"
 /I Runtime\GameplayTags\Classes
 /I Runtime\GameplayTags\Public
 /I Runtime\GameplayTags
 /I Runtime\DatabaseSupport\Public
 /I Runtime\DatabaseSupport
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\PacketHandler"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\PacketHandler"
 /I Runtime\PacketHandlers
 /I Runtime\PacketHandlers\PacketHandler\Classes
 /I Runtime\PacketHandlers\PacketHandler\Public
 /I Runtime\PacketHandlers\PacketHandler
 /I Runtime\PacketHandlers\ReliabilityHandlerComponent\Public
 /I Runtime\PacketHandlers\ReliabilityHandlerComponent
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\AudioPlatformConfiguration"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\AudioPlatformConfiguration"
 /I Runtime\AudioPlatformConfiguration\Public
 /I Runtime\AudioPlatformConfiguration
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\MeshDescription"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\MeshDescription"
 /I Runtime\MeshDescription\Public
 /I Runtime\MeshDescription
 /I Runtime\PakFile\Public
 /I Runtime\PakFile
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\ClothingSystemRuntimeInterface"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\ClothingSystemRuntimeInterface"
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
 /I Runtime\NetworkReplayStreaming
 /I Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public
 /I Runtime\NetworkReplayStreaming\NetworkReplayStreaming
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\AudioMixer"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\AudioMixer"
 /I Runtime\AudioMixer\Classes
 /I Runtime\AudioMixer\Public
 /I Runtime\AudioMixer
@@ -232,13 +232,13 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\AnimationCore"
+/I "G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Inc\AnimationCore"
 /I Runtime\AnimationCore\Public
 /I Runtime\AnimationCore
-/I "I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\ShooterServer\Inc\AdvancedSessions"
-/I "I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Source"
-/I "I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
-/I "I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
+/I "G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\ShooterServer\Inc\AdvancedSessions"
+/I "G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Source"
+/I "G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
 /I ThirdParty\Steamworks\Steamv139\sdk\public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\ShooterServer\Inc\OnlineSubsystemSteam
 /I ..\Plugins\Online\OnlineSubsystemSteam
@@ -252,12 +252,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/FI"I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Development\Engine\SharedPCH.Engine.h"
-/Yu"I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Development\Engine\SharedPCH.Engine.h"
-/Fp"I:\UNREAL PROJECTS\Shooter\Intermediate\Build\Win64\ShooterServer\Development\Engine\SharedPCH.Engine.h.pch"
-"I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\ShooterServer\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
-/FI"I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\ShooterServer\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Fo"I:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\ShooterServer\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+/FI"G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Development\Engine\SharedPCH.Engine.h"
+/Yu"G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Development\Engine\SharedPCH.Engine.h"
+/Fp"G:\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterServer\Development\Engine\SharedPCH.Engine.h.pch"
+"G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\ShooterServer\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
+/FI"G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\ShooterServer\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Fo"G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\ShooterServer\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
 /TP
 /GR-
 /W4
