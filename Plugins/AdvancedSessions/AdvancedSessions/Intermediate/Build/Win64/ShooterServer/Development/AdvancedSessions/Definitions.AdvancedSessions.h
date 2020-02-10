@@ -44,7 +44,7 @@
 #define PROJECT_PRODUCT_IDENTIFIER Shooter
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
-#define UE_ENGINE_DIRECTORY "../../../../Program Files/Epic Games/UnrealEngine-4.21/Engine/"
+#define UE_ENGINE_DIRECTORY "I:/Program Files/Epic Games/UnrealEngine-4.21/Engine/"
 #define ORIGINAL_FILE_NAME "ShooterServer.exe"
 #define UE_IS_ENGINE_MODULE 0
 #define UE_PROJECT_NAME Shooter
