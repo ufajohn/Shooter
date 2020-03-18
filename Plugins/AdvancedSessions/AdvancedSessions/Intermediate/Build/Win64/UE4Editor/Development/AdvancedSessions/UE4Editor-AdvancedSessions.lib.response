@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-AdvancedSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Program Files\UnrealEngine-4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
-"D:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
-"D:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
-"D:\Program Files\UnrealEngine-4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
-/OUT:"D:\UNREAL PROJECTS\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.lib"
+"G:\Program Files\Epic Games\UnrealEngine-4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"G:\Program Files\Epic Games\UnrealEngine-4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+/OUT:"G:\Unreal Projects\Shooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.lib"
