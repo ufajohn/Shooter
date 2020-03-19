@@ -107,3 +107,4 @@ Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Edito
 Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSteamSessions/UE4Editor-AdvancedSteamSessions.suppressed.exp
 Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/Timestamp
 Shooter.uproject
+*.uproject
